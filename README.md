@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @BradleyLikesCoding
-- 👀 I’m interested in Python Programing
-- 🌱 I’m currently learning more about Python
-
-Hello :D
+👋 Hi, I’m @BradleyLikesCoding
+I am intrested in full stack web development and have made some cool projects.
